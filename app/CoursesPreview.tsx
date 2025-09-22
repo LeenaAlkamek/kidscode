@@ -9,7 +9,7 @@ export default function CoursesPreview() {
       id: 1,
       title: 'أساسيات البرمجة للمبتدئين',
       description: 'مقدمة مثالية لمفاهيم البرمجة باستخدام كتل ملونة وشخصيات ممتعة.',
-      age: '6-8 سنوات',
+      age: '8-9 سنوات',
       duration: '4 أسابيع',
       lessons: 16,
       image: '/image2.jpg',
@@ -31,7 +31,7 @@ export default function CoursesPreview() {
       id: 3,
       title: 'مغامرات تطوير الويب',
       description: 'بناء مواقع ويب رائعة وتعلم كيفية عمل الإنترنت من خلال مشاريع عملية.',
-      age: '13-16 سنة',
+      age: '13-15 سنة',
       duration: '8 أسابيع',
       lessons: 32,
       image: '/image1.jpg',
@@ -41,14 +41,14 @@ export default function CoursesPreview() {
   ];
 
   return (
-    <section className="py-20 bg-white">
+    <section className="py-20 bg-white" dir="rtl">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16" dir="rtl">
           <h2 className="text-4xl font-bold text-indigo-900 mb-4">
-            الدورات الأكثر شعبية
+            المسارات البرمجية
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            اكتشف دورات البرمجة الأكثر حباً، المصممة بعناية لمختلف الفئات العمرية ومستويات المهارة.
+            اكتشف مسارات البرمجة الأكثر حباً، المصممة بعناية لمختلف الفئات العمرية ومستويات المهارة.
           </p>
         </div>
 

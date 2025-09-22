@@ -28,7 +28,7 @@ export default function HeroSection() {
                 ابدأ التعلم الآن
               </Link>
               <Link href="/playground" className="border-2 border-pink-500 text-pink-500 px-8 py-4 rounded-full font-semibold hover:bg-pink-500 hover:text-white transition-all text-center whitespace-nowrap">
-                جرب الساحة
+                تعرف على ابطال كيدزكود
               </Link>
             </div>
             <div className="flex items-center gap-6 text-gray-600">
