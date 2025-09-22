@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-16">
           <div className="hidden md:flex items-center gap-4">
             <Link
-              href="/login"
+              href="/auth/login"
               className="text-gray-700 hover:text-blue-500 font-medium transition-colors"
             >
               تسجيل الدخول
@@ -127,7 +127,7 @@ export default function Header() {
                 تواصل معنا
               </Link>
               <Link
-                href="/login"
+                href="/auth/login"
                 className="text-gray-700 hover:text-blue-500 font-medium"
               >
                 تسجيل الدخول
