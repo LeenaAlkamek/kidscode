@@ -12,13 +12,13 @@ export default function CoursesList({ selectedAge, selectedLevel }: CoursesListP
   const courses = [
     {
       id: 1,
-      title: 'أساسيات البرمجة للمبتدئين',
+      title: 'أساسيات البرمجة للاطفال',
       description: 'مقدمة مثالية لمفاهيم البرمجة باستخدام كتل ملونة وشخصيات ممتعة.',
       age: '9-8',
       level: 'beginner',
-      duration: '4 أسابيع',
-      lessons: 16,
-      students: 1250,
+      duration: '8 أسابيع',
+      lessons: 12,
+      students: 100,
       rating: 4.9,
       image: '/image2.jpg',
       color: 'from-blue-500 to-cyan-500',

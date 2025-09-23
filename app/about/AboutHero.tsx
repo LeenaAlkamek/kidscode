@@ -27,21 +27,21 @@ export default function AboutHero() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
               <div className="bg-white/80 p-6 rounded-2xl backdrop-blur-sm">
                 <div className="text-3xl font-bold text-blue-500 mb-2">
-                  2020
+                  2025
                 </div>
                 <div className="text-gray-700">سنة التأسيس</div>
               </div>
               <div className="bg-white/80 p-6 rounded-2xl backdrop-blur-sm">
                 <div className="text-3xl font-bold text-pink-500 mb-2">
-                  50,000+
+                  100+
                 </div>
                 <div className="text-gray-700">طالب متخرج</div>
               </div>
               <div className="bg-white/80 p-6 rounded-2xl backdrop-blur-sm">
                 <div className="text-3xl font-bold text-purple-500 mb-2">
-                  25+
+                  2+
                 </div>
-                <div className="text-gray-700">دولة حول العالم</div>
+                <div className="text-gray-700">محافظة  </div>
               </div>
             </div>
           </div>

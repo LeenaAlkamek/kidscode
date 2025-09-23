@@ -7,11 +7,11 @@ export default function CoursesPreview() {
   const courses = [
     {
       id: 1,
-      title: 'أساسيات البرمجة للمبتدئين',
+      title: 'أساسيات البرمجة للاطفال',
       description: 'مقدمة مثالية لمفاهيم البرمجة باستخدام كتل ملونة وشخصيات ممتعة.',
       age: '8-9 سنوات',
-      duration: '4 أسابيع',
-      lessons: 16,
+      duration: '8 أسابيع',
+      lessons: 12,
       image: '/image2.jpg',
       difficulty: 'مبتدئ',
       color: 'from-blue-500 to-cyan-500'

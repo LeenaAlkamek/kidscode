@@ -38,7 +38,7 @@ export default function HeroSection() {
               </div>
               <div className="flex items-center gap-2">
                 <i className="ri-user-3-fill text-blue-500"></i>
-                <span className="font-semibold">+50,000 طالب</span>
+                <span className="font-semibold">+100 طالب</span>
               </div>
               <div className="flex items-center gap-2">
                 <i className="ri-trophy-fill text-pink-500"></i>
