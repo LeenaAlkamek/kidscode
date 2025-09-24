@@ -14,7 +14,7 @@ export default function CoursesList({ selectedAge, selectedLevel }: CoursesListP
       id: 1,
       title: 'أساسيات البرمجة للاطفال',
       description: 'مقدمة مثالية لمفاهيم البرمجة باستخدام كتل ملونة وشخصيات ممتعة.',
-      age: '9-8',
+      age: '9-7',
       level: 'beginner',
       duration: '8 أسابيع',
       lessons: 12,

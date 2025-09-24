@@ -26,7 +26,7 @@ export default function CoursesHero() {
                 <div className="text-gray-700">دورة متنوعة</div>
               </div>
               <div className="bg-white/80 p-6 rounded-2xl backdrop-blur-sm">
-                <div className="text-3xl font-bold text-pink-500 mb-2">6-16</div>
+                <div className="text-3xl font-bold text-pink-500 mb-2">7-15</div>
                 <div className="text-gray-700">سنة (الفئة العمرية)</div>
               </div>
               <div className="bg-white/80 p-6 rounded-2xl backdrop-blur-sm">

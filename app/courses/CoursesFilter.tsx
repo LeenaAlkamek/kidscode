@@ -11,9 +11,9 @@ interface CoursesFilterProps {
 export default function CoursesFilter({ selectedAge, selectedLevel, onAgeChange, onLevelChange }: CoursesFilterProps) {
   const ageGroups = [
     { value: 'all', label: 'جميع الأعمار' },
-    { value: '9-8', label: '9-8 سنوات' },
+    { value: '9-7', label: '9-7 سنوات' },
     { value: '9-12', label: '9-12 سنة' },
-    { value: '13-16', label: '13-16 سنة' }
+    { value: '13-15', label: '13-15 سنة' }
   ];
 
   const levels = [

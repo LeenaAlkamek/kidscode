@@ -9,7 +9,7 @@ export default function CoursesPreview() {
       id: 1,
       title: 'أساسيات البرمجة للاطفال',
       description: 'مقدمة مثالية لمفاهيم البرمجة باستخدام كتل ملونة وشخصيات ممتعة.',
-      age: '8-9 سنوات',
+      age: '7-9 سنوات',
       duration: '8 أسابيع',
       lessons: 12,
       image: '/image2.jpg',
